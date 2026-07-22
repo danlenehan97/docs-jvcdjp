@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-bibutv.openclaw-manager.com/sitemap.xml
